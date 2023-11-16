@@ -362,4 +362,5 @@ with app:
         )
 
 
-app.launch(inbrowser=True)
+# app.launch(inbrowser=True)
+app.launch(inbrowser=True, share=True)
